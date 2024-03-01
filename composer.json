@@ -1,0 +1,15 @@
+{
+    "name": "vendor/name",
+    "description": "simple scrap",
+    "authors": [
+        {
+            "name": "faiskndr",
+            "email": "faisaliskandar204@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fabpot/goutte": "dev-master",
+        "sastrawi/sastrawi": "^1.2"
+    }
+}
